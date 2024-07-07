@@ -5,7 +5,7 @@ DSA and Development
 -------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [megha1203patel@gmail.com](mailto:megha1203patel@gmail.com)
+* ✉️  You can contact me at [megha1203patel@gmail.com](mailto:megha1008patel@gmail.com)
 * 🧠  I'm learning DSA and MERN Stack
 * 🤝  I'm open to collaborating on Web Development Projects
 * 🔎  Looking forward for OpenSource contributions
